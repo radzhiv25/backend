@@ -1,3 +1,3 @@
-### MERN Stack Learnings
+## MERN Stack Learnings
 
-## Mainly focusing on Node, MongoDB and Express
+### Mainly focusing on Node, MongoDB and Express
