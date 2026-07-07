@@ -1,0 +1,21 @@
+JS Engine is used to execute on Browser.
+
+Engine used by Chrome is V8.
+Engine used by Firefox is Spider Monkey.
+Engine used by Safari is Apple's JS Engine.
+
+Ryan Dahl was behind NodeJS he embedded V8 Engine with C++.
+
+With the help of NodeJS JS can be executed on local machine.
+This can be used to create webserver.
+
+NodeJS is runtime environment for JS on your own system or local Machine.
+
+In future you can refer this link for NodeJS download ( please prefer to use LTS version at that point of time ) - https://nodejs.org/en/download
+
+You can check the version with - node --version
+
+if you type node - an interactive terminal will start
+
+npm - node package manager ( this automatically downloads) basically used for downloading extra packages for your usage 
+npm -v ( to check the version )
